@@ -19,7 +19,6 @@ private let Image_arrow_down = getImage(imageName: "icon_arrow_down@2x")
 private let Image_arrow_up = getImage(imageName: "icon_arrow_up@2x")
 private let Image_loading = getImage(imageName: "icon_loading@2x")
 
-// MARK: -
 /// 默认动画时间
 private let QBDefaultDuration: TimeInterval = 0.25
 
